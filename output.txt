@@ -1,0 +1,618 @@
+Document contains handwritten content: 
+X,Yes
+----Key-value pairs found in document----
+Key 'QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934' found within 'Page #1: [0.9837, 1.7426], [7.841, 1.7426], [7.841, 2.0625], [0.9837, 2.0625]' bounding regions
+Value ':selected:' found within 'Page #1: [0.6572, 1.7653], [0.7809, 1.7653], [0.7809, 1.8873], [0.6572, 1.8873]' bounding regions
+
+Key 'For the Quarterly Period Ended' found within 'Page #1: [0.9837, 2.1341], [2.6264, 2.1341], [2.6264, 2.2773], [0.9837, 2.2773]' bounding regions
+Value 'March 31, 2020' found within 'Page #1: [2.6551, 2.1341], [3.4573, 2.1341], [3.4573, 2.2773], [2.6551, 2.2773]' bounding regions
+
+Key 'TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934' found within 'Page #1: [0.9837, 2.6688], [7.8506, 2.6688], [7.8506, 2.9935], [0.9837, 2.9935]' bounding regions
+Value ':unselected:' found within 'Page #1: [0.6611, 2.6871], [0.7835, 2.6871], [0.7835, 2.8103], [0.6611, 2.8103]' bounding regions
+
+Key 'For the Transition Period From' found within 'Page #1: [0.9742, 3.0556], [2.5787, 3.0556], [2.5787, 3.1988], [0.9742, 3.1988]' bounding regions
+Key 'Commission File Number' found within 'Page #1: [3.2281, 3.2418], [4.6607, 3.2418], [4.6607, 3.385], [3.2281, 3.385]' bounding regions
+Value '001-37845' found within 'Page #1: [4.6893, 3.2418], [5.2624, 3.2418], [5.2624, 3.3802], [4.6893, 3.385]' bounding regions
+
+Key '(STATE
+INCORPORATION)' found within 'Page #1: [1.6952, 4.0781], [3.1138, 4.082], [3.1135, 4.2101], [1.6949, 4.2062]' bounding regions
+Value 'WASHINGTON' found within 'Page #1: [1.9913, 3.9436], [2.7888, 3.934], [2.7888, 4.0725], [1.9913, 4.0629]' bounding regions
+
+Key '(I.R.S. ID)' found within 'Page #1: [5.8593, 4.0868], [6.3081, 4.0868], [6.3081, 4.2062], [5.8593, 4.2062]' bounding regions
+Value '91-1144442' found within 'Page #1: [5.7685, 3.9388], [6.4084, 3.9436], [6.4132, 4.0677], [5.7733, 4.0677]' bounding regions
+
+Key 'Securities registered pursuant to Section 12(g) of the Act:' found within 'Page #1: [0.6256, 5.8247], [3.6292, 5.8247], [3.6292, 5.9679], [0.6256, 5.9679]' bounding regions
+Value 'NONE' found within 'Page #1: [0.6112, 6.0586], [0.9598, 6.0538], [0.9598, 6.1827], [0.6208, 6.178]' bounding regions
+
+Key 'Yes' found within 'Page #1: [3.973, 6.536], [4.1831, 6.5408], [4.1831, 6.6602], [3.9683, 6.6649]' bounding regions
+Value ':selected:' found within 'Page #1: [4.2406, 6.5435], [4.3391, 6.5435], [4.3391, 6.6413], [4.2406, 6.6413]' bounding regions
+
+Key 'No' found within 'Page #1: [4.4744, 6.5408], [4.6225, 6.5408], [4.6225, 6.6411], [4.4744, 6.6363]' bounding regions
+Value ':unselected:' found within 'Page #1: [4.7086, 6.5447], [4.8033, 6.5447], [4.8033, 6.6375], [4.7086, 6.6375]' bounding regions
+
+Key 'Yes' found within 'Page #1: [1.6952, 7.0182], [1.8958, 7.023], [1.8958, 7.128], [1.6952, 7.1328]' bounding regions
+Value ':selected:' found within 'Page #1: [1.9626, 7.0222], [2.0623, 7.0222], [2.0623, 7.1187], [1.9626, 7.1187]' bounding regions
+
+Key 'No' found within 'Page #1: [2.1919, 7.0278], [2.3256, 7.0278], [2.3256, 7.1185], [2.1919, 7.1185]' bounding regions
+Value ':unselected:' found within 'Page #1: [2.4205, 7.0234], [2.5139, 7.0234], [2.5139, 7.1174], [2.4205, 7.1174]' bounding regions
+
+Key 'Large accelerated filer' found within 'Page #1: [0.6351, 7.6866], [1.8335, 7.6771], [1.8347, 7.8251], [0.6363, 7.8346]' bounding regions
+Value ':selected:' found within 'Page #1: [1.8588, 7.7045], [1.9573, 7.7045], [1.9573, 7.8011], [1.8588, 7.8011]' bounding regions
+
+Key 'Accelerated filer' found within 'Page #1: [5.3244, 7.6914], [6.1935, 7.6914], [6.1935, 7.8203], [5.3244, 7.8203]' bounding regions
+Value ':unselected:' found within 'Page #1: [6.2252, 7.7045], [6.3199, 7.7045], [6.3199, 7.7998], [6.2252, 7.7998]' bounding regions
+
+Key 'Non-accelerated filer' found within 'Page #1: [0.6399, 7.8681], [1.7573, 7.8711], [1.757, 7.9952], [0.6396, 7.9922]' bounding regions
+Value ':unselected:' found within 'Page #1: [1.7804, 7.8803], [1.8764, 7.8803], [1.8764, 7.9755], [1.7804, 7.9755]' bounding regions
+
+Key 'Smaller reporting company' found within 'Page #1: [5.3292, 7.8633], [6.7488, 7.8778], [6.7474, 8.0162], [5.3278, 8.0017]' bounding regions
+Value ':unselected:' found within 'Page #1: [6.7894, 7.8815], [6.884, 7.8815], [6.884, 7.9768], [6.7894, 7.9768]' bounding regions
+
+Key 'Emerging growth company' found within 'Page #1: [5.3292, 8.0447], [6.7522, 8.0447], [6.7522, 8.1832], [5.3292, 8.1832]' bounding regions
+Value ':unselected:' found within 'Page #1: [6.7843, 8.0534], [6.879, 8.0534], [6.879, 8.1474], [6.7843, 8.1474]' bounding regions
+
+Key 'If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.' found within 'Page #1: [0.6351, 8.2405], [7.8458, 8.2405], [7.8458, 8.5317], [0.6351, 8.5317]' bounding regions
+Value ':unselected:' found within 'Page #1: [6.5389, 8.4099], [6.6298, 8.4099], [6.6298, 8.5013], [6.5389, 8.5013]' bounding regions
+
+Key 'Yes' found within 'Page #1: [6.4896, 8.5603], [6.714, 8.5603], [6.714, 8.7513], [6.4896, 8.7513]' bounding regions
+Value ':unselected:' found within 'Page #1: [6.7881, 8.6098], [6.884, 8.6098], [6.884, 8.7051], [6.7881, 8.7051]' bounding regions
+
+Key 'No' found within 'Page #1: [7.0149, 8.6128], [7.1534, 8.6128], [7.1534, 8.7131], [7.0149, 8.7083]' bounding regions
+Value ':selected:' found within 'Page #1: [7.2397, 8.6136], [7.3369, 8.6136], [7.3369, 8.7089], [7.2397, 8.7089]' bounding regions
+
+----Analyzing document from page #1----
+Page has width: 8.5 and height: 11.0, measured with unit: inch
+...Line # 0 has text content 'UNITED STATES' within bounding box '[3.4669, 0.6636], [5.0236, 0.6589], [5.0236, 0.8451], [3.4669, 0.8498]'
+...Line # 1 has text content 'SECURITIES AND EXCHANGE COMMISSION' within bounding box '[2.168, 0.8737], [6.3129, 0.8737], [6.3129, 1.0647], [2.168, 1.0647]'
+...Line # 2 has text content 'Washington, D.C. 20549' within bounding box '[3.443, 1.0885], [5.057, 1.0838], [5.057, 1.2509], [3.443, 1.2604]'
+...Line # 3 has text content 'FORM 10-Q' within bounding box '[3.7104, 1.3893], [4.7944, 1.3893], [4.7944, 1.5898], [3.7104, 1.5898]'
+...Line # 4 has text content 'X' within bounding box '[0.6638, 1.7569], [0.7736, 1.7522], [0.7736, 1.8859], [0.6638, 1.8859]'
+...Line # 5 has text content 'QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF' within bounding box '[0.9694, 1.7426], [7.8601, 1.7426], [7.8601, 1.9145], [0.9694, 1.9097]'
+...Line # 6 has text content '1934' within bounding box '[0.9837, 1.9336], [1.2989, 1.9336], [1.2989, 2.0625], [0.9885, 2.0577]'
+...Line # 7 has text content 'For the Quarterly Period Ended March 31, 2020' within bounding box '[0.9789, 2.1341], [3.4621, 2.1293], [3.4621, 2.2726], [0.9789, 2.2773]'
+...Line # 8 has text content 'OR' within bounding box '[4.1306, 2.2726], [4.3598, 2.2726], [4.3646, 2.4158], [4.1306, 2.411]'
+...Line # 9 has text content 'TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF' within bounding box '[0.9694, 2.6641], [7.8649, 2.6641], [7.8649, 2.8312], [0.9694, 2.8312]'
+...Line # 10 has text content '1934' within bounding box '[0.9837, 2.8598], [1.3084, 2.855], [1.3084, 2.9935], [0.9933, 2.9887]'
+...Line # 11 has text content 'For the Transition Period From' within bounding box '[0.9694, 3.0556], [2.6264, 3.0556], [2.6264, 3.194], [0.9694, 3.1892]'
+...Line # 12 has text content 'to' within bounding box '[3.1565, 3.0794], [3.2806, 3.0747], [3.2854, 3.1654], [3.1612, 3.1654]'
+...Line # 13 has text content 'Commission File Number 001-37845' within bounding box '[3.2185, 3.2418], [5.2671, 3.237], [5.2671, 3.3802], [3.2185, 3.385]'
+...Line # 14 has text content 'MICROSOFT CORPORATION' within bounding box '[2.5261, 3.5378], [5.9691, 3.533], [5.9691, 3.7717], [2.5261, 3.7813]'
+...Line # 15 has text content 'WASHINGTON' within bounding box '[1.9865, 3.9293], [2.8174, 3.9293], [2.8174, 4.0677], [1.9865, 4.0677]'
+...Line # 16 has text content '(STATE OF INCORPORATION)' within bounding box '[1.6857, 4.0773], [3.1135, 4.0773], [3.1135, 4.2014], [1.6857, 4.2014]'
+...Line # 17 has text content '91-1144442' within bounding box '[5.7542, 3.934], [6.418, 3.9388], [6.418, 4.0677], [5.7542, 4.0629]'
+...Line # 18 has text content '(I.R.S. ID)' within bounding box '[5.8593, 4.082], [6.3081, 4.082], [6.3081, 4.2062], [5.8593, 4.2014]'
+...Line # 19 has text content 'ONE MICROSOFT WAY, REDMOND, WASHINGTON 98052-6399' within bounding box '[2.5691, 4.2491], [5.9118, 4.2491], [5.9118, 4.3828], [2.5691, 4.3876]'
+...Line # 20 has text content '(425) 882-8080' within bounding box '[3.8346, 4.3876], [4.6272, 4.3876], [4.6272, 4.5165], [3.8393, 4.5213]'
+...Line # 21 has text content 'www.microsoft.com/investor' within bounding box '[3.4716, 4.5165], [5.0188, 4.5165], [5.0188, 4.6454], [3.4716, 4.6454]'
+...Line # 22 has text content 'Securities registered pursuant to Section 12(b) of the Act:' within bounding box '[0.616, 4.717], [3.634, 4.7122], [3.634, 4.8555], [0.616, 4.8602]'
+...Line # 23 has text content 'Title of each class' within bounding box '[0.616, 4.9462], [1.5711, 4.951], [1.5711, 5.0799], [0.616, 5.0703]'
+...Line # 24 has text content 'Trading Symbol' within bounding box '[4.3312, 4.9462], [5.1716, 4.9462], [5.1716, 5.0846], [4.3312, 5.0846]'
+...Line # 25 has text content 'Name of exchange on which registered' within bounding box '[5.5632, 4.9462], [7.6357, 4.9462], [7.6309, 5.0894], [5.5632, 5.0846]'
+...Line # 26 has text content 'Common stock, $0.00000625 par value per share' within bounding box '[0.616, 5.1467], [3.3522, 5.1515], [3.3522, 5.2947], [0.616, 5.2852]'
+...Line # 27 has text content 'MSFT' within bounding box '[4.5795, 5.1563], [4.9185, 5.1515], [4.9185, 5.2708], [4.5795, 5.2756]'
+...Line # 28 has text content 'NASDAQ' within bounding box '[6.3177, 5.1372], [6.8716, 5.1372], [6.8716, 5.2947], [6.3177, 5.2947]'
+...Line # 29 has text content '2.125% Notes due 2021' within bounding box '[0.6112, 5.309], [1.9292, 5.3043], [1.9292, 5.4427], [0.6112, 5.4427]'
+...Line # 30 has text content 'MSFT' within bounding box '[4.5747, 5.3138], [4.9185, 5.309], [4.9185, 5.4332], [4.5795, 5.4284]'
+...Line # 31 has text content 'NASDAQ' within bounding box '[6.3368, 5.309], [6.8716, 5.309], [6.8716, 5.4379], [6.3368, 5.4332]'
+...Line # 32 has text content '3.125% Notes due 2028' within bounding box '[0.616, 5.4714], [1.9388, 5.4714], [1.9388, 5.6003], [0.616, 5.6003]'
+...Line # 33 has text content 'MSFT' within bounding box '[4.5747, 5.4761], [4.9138, 5.4714], [4.9138, 5.5907], [4.5843, 5.5907]'
+...Line # 34 has text content 'NASDAQ' within bounding box '[6.3368, 5.4761], [6.8669, 5.4761], [6.8669, 5.5955], [6.3368, 5.5955]'
+...Line # 35 has text content '2.625% Notes due 2033' within bounding box '[0.6112, 5.6289], [1.9292, 5.6289], [1.9292, 5.7578], [0.6112, 5.7578]'
+...Line # 36 has text content 'MSFT' within bounding box '[4.5747, 5.6146], [4.9329, 5.6146], [4.9329, 5.7674], [4.5747, 5.7674]'
+...Line # 37 has text content 'NASDAQ' within bounding box '[6.332, 5.6289], [6.8764, 5.6289], [6.8764, 5.753], [6.332, 5.753]'
+...Line # 38 has text content 'Securities registered pursuant to Section 12(g) of the Act:' within bounding box '[0.6065, 5.8247], [3.6292, 5.8199], [3.6292, 5.9631], [0.6065, 5.9631]'
+...Line # 39 has text content 'NONE' within bounding box '[0.6112, 6.0538], [0.9789, 6.0538], [0.9742, 6.178], [0.6112, 6.1732]'
+...Line # 40 has text content 'Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange' within bounding box '[0.6303, 6.2448], [7.8553, 6.24], [7.8553, 6.3832], [0.6303, 6.3832]'
+...Line # 41 has text content 'Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has' within bounding box '[0.6351, 6.3832], [7.8553, 6.3832], [7.8553, 6.5265], [0.6351, 6.5217]'
+...Line # 42 has text content 'been subject to such filing requirements for the past 90 days. Yes' within bounding box '[0.6351, 6.5265], [4.1831, 6.5265], [4.1831, 6.6697], [0.6351, 6.6697]'
+...Line # 43 has text content 'No' within bounding box '[4.4697, 6.5408], [4.6368, 6.5456], [4.6368, 6.6411], [4.4697, 6.6411]'
+...Line # 44 has text content 'Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule' within bounding box '[0.6399, 6.727], [7.8506, 6.727], [7.8506, 6.8607], [0.6399, 6.8607]'
+...Line # 45 has text content '405 of Regulation S-T (§232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to' within bounding box '[0.6399, 6.8655], [7.8601, 6.8655], [7.8601, 6.9991], [0.6399, 6.9944]'
+...Line # 46 has text content 'submit such files). Yes' within bounding box '[0.6351, 7.0087], [1.9149, 7.0087], [1.9149, 7.1376], [0.6351, 7.1376]'
+...Line # 47 has text content 'No' within bounding box '[2.1775, 7.0278], [2.3494, 7.0278], [2.3494, 7.1185], [2.1823, 7.1185]'
+...Line # 48 has text content 'Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting' within bounding box '[0.6303, 7.2044], [7.8506, 7.2092], [7.8506, 7.3477], [0.6303, 7.3429]'
+...Line # 49 has text content 'company, or an emerging growth company. See the definitions of "large accelerated filer," "accelerated filer," "smaller reporting company,"' within bounding box '[0.6303, 7.3477], [7.8506, 7.3429], [7.8506, 7.4861], [0.6303, 7.4909]'
+...Line # 50 has text content 'and "emerging growth company" in Rule 12b-2 of the Exchange Act.' within bounding box '[0.6351, 7.4813], [4.2022, 7.4766], [4.2022, 7.615], [0.6351, 7.6198]'
+...Line # 51 has text content 'Large accelerated filer' within bounding box '[0.6351, 7.6866], [1.8576, 7.6866], [1.8624, 7.8203], [0.6351, 7.8299]'
+...Line # 52 has text content 'Accelerated filer' within bounding box '[5.3149, 7.6866], [6.1935, 7.6866], [6.1935, 7.8155], [5.3149, 7.8155]'
+...Line # 53 has text content 'Non-accelerated filer' within bounding box '[0.6351, 7.8681], [1.7573, 7.8681], [1.7573, 7.9922], [0.6351, 7.9922]'
+...Line # 54 has text content 'Smaller reporting company' within bounding box '[5.3101, 7.8633], [6.7522, 7.8728], [6.7522, 8.0065], [5.3101, 7.997]'
+...Line # 55 has text content 'Emerging growth company' within bounding box '[5.3292, 8.0399], [6.7522, 8.0399], [6.7522, 8.1784], [5.3292, 8.1784]'
+...Line # 56 has text content 'If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying' within bounding box '[0.6399, 8.2357], [7.8506, 8.2357], [7.8506, 8.3789], [0.6399, 8.3789]'
+...Line # 57 has text content 'with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.' within bounding box '[0.6351, 8.3885], [6.461, 8.3885], [6.461, 8.5269], [0.6351, 8.5269]'
+...Line # 58 has text content 'Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act).' within bounding box '[0.6399, 8.5938], [6.4323, 8.5938], [6.4371, 8.7322], [0.6399, 8.7322]'
+...Line # 59 has text content 'Yes' within bounding box '[6.4323, 8.5603], [6.7284, 8.5603], [6.7284, 8.7513], [6.4371, 8.7513]'
+...Line # 60 has text content 'No' within bounding box '[7.0101, 8.6128], [7.2011, 8.6128], [7.1963, 8.7131], [7.0101, 8.7083]'
+...Line # 61 has text content 'Indicate the number of shares outstanding of each of the issuer's classes of common stock, as of the latest practicable date.' within bounding box '[0.6303, 8.7943], [6.9385, 8.7943], [6.9385, 8.928], [0.6303, 8.928]'
+...Line # 62 has text content 'Class' within bounding box '[0.6447, 9.0425], [0.9169, 9.0521], [0.9169, 9.224], [0.6399, 9.2144]'
+...Line # 63 has text content 'Outstanding as of April 24, 2020' within bounding box '[6.1124, 9.0855], [7.7073, 9.076], [7.7073, 9.2049], [6.1124, 9.2096]'
+...Line # 64 has text content 'Common Stock, $0.00000625 par value per share' within bounding box '[0.6399, 9.2956], [3.2615, 9.2956], [3.2615, 9.434], [0.6399, 9.4245]'
+...Line # 65 has text content '7,583,440,247 shares' within bounding box '[6.5517, 9.3194], [7.7121, 9.3147], [7.7121, 9.4531], [6.5517, 9.4579]'
+...Word 'UNITED' has a confidence of 0.995
+...Word 'STATES' has a confidence of 0.992
+...Word 'SECURITIES' has a confidence of 0.994
+...Word 'AND' has a confidence of 0.998
+...Word 'EXCHANGE' has a confidence of 0.995
+...Word 'COMMISSION' has a confidence of 0.993
+...Word 'Washington,' has a confidence of 0.99
+...Word 'D.C.' has a confidence of 0.989
+...Word '20549' has a confidence of 0.993
+...Word 'FORM' has a confidence of 0.993
+...Word '10-Q' has a confidence of 0.993
+...Word 'X' has a confidence of 0.967
+...Word 'QUARTERLY' has a confidence of 0.994
+...Word 'REPORT' has a confidence of 0.995
+...Word 'PURSUANT' has a confidence of 0.994
+...Word 'TO' has a confidence of 0.993
+...Word 'SECTION' has a confidence of 0.995
+...Word '13' has a confidence of 0.995
+...Word 'OR' has a confidence of 0.995
+...Word '15(d)' has a confidence of 0.975
+...Word 'OF' has a confidence of 0.997
+...Word 'THE' has a confidence of 0.995
+...Word 'SECURITIES' has a confidence of 0.993
+...Word 'EXCHANGE' has a confidence of 0.994
+...Word 'ACT' has a confidence of 0.995
+...Word 'OF' has a confidence of 0.994
+...Word '1934' has a confidence of 0.993
+...Word 'For' has a confidence of 0.996
+...Word 'the' has a confidence of 0.996
+...Word 'Quarterly' has a confidence of 0.991
+...Word 'Period' has a confidence of 0.995
+...Word 'Ended' has a confidence of 0.993
+...Word 'March' has a confidence of 0.995
+...Word '31,' has a confidence of 0.995
+...Word '2020' has a confidence of 0.992
+...Word 'OR' has a confidence of 0.995
+...Word 'TRANSITION' has a confidence of 0.994
+...Word 'REPORT' has a confidence of 0.995
+...Word 'PURSUANT' has a confidence of 0.994
+...Word 'TO' has a confidence of 0.996
+...Word 'SECTION' has a confidence of 0.994
+...Word '13' has a confidence of 0.995
+...Word 'OR' has a confidence of 0.969
+...Word '15(d)' has a confidence of 0.992
+...Word 'OF' has a confidence of 0.996
+...Word 'THE' has a confidence of 0.996
+...Word 'SECURITIES' has a confidence of 0.994
+...Word 'EXCHANGE' has a confidence of 0.985
+...Word 'ACT' has a confidence of 0.963
+...Word 'OF' has a confidence of 0.996
+...Word '1934' has a confidence of 0.993
+...Word 'For' has a confidence of 0.997
+...Word 'the' has a confidence of 0.996
+...Word 'Transition' has a confidence of 0.991
+...Word 'Period' has a confidence of 0.995
+...Word 'From' has a confidence of 0.993
+...Word 'to' has a confidence of 0.996
+...Word 'Commission' has a confidence of 0.99
+...Word 'File' has a confidence of 0.993
+...Word 'Number' has a confidence of 0.991
+...Word '001-37845' has a confidence of 0.994
+...Word 'MICROSOFT' has a confidence of 0.993
+...Word 'CORPORATION' has a confidence of 0.993
+...Word 'WASHINGTON' has a confidence of 0.995
+...Word '(STATE' has a confidence of 0.994
+...Word 'OF' has a confidence of 0.996
+...Word 'INCORPORATION)' has a confidence of 0.991
+...Word '91-1144442' has a confidence of 0.993
+...Word '(I.R.S.' has a confidence of 0.942
+...Word 'ID)' has a confidence of 0.995
+...Word 'ONE' has a confidence of 0.997
+...Word 'MICROSOFT' has a confidence of 0.993
+...Word 'WAY,' has a confidence of 0.982
+...Word 'REDMOND,' has a confidence of 0.993
+...Word 'WASHINGTON' has a confidence of 0.992
+...Word '98052-6399' has a confidence of 0.961
+...Word '(425)' has a confidence of 0.964
+...Word '882-8080' has a confidence of 0.993
+...Word 'www.microsoft.com/investor' has a confidence of 0.961
+...Word 'Securities' has a confidence of 0.979
+...Word 'registered' has a confidence of 0.987
+...Word 'pursuant' has a confidence of 0.991
+...Word 'to' has a confidence of 0.995
+...Word 'Section' has a confidence of 0.991
+...Word '12(b)' has a confidence of 0.993
+...Word 'of' has a confidence of 0.995
+...Word 'the' has a confidence of 0.995
+...Word 'Act:' has a confidence of 0.982
+...Word 'Title' has a confidence of 0.993
+...Word 'of' has a confidence of 0.992
+...Word 'each' has a confidence of 0.993
+...Word 'class' has a confidence of 0.995
+...Word 'Trading' has a confidence of 0.993
+...Word 'Symbol' has a confidence of 0.994
+...Word 'Name' has a confidence of 0.993
+...Word 'of' has a confidence of 0.995
+...Word 'exchange' has a confidence of 0.994
+...Word 'on' has a confidence of 0.997
+...Word 'which' has a confidence of 0.995
+...Word 'registered' has a confidence of 0.993
+...Word 'Common' has a confidence of 0.995
+...Word 'stock,' has a confidence of 0.993
+...Word '$0.00000625' has a confidence of 0.994
+...Word 'par' has a confidence of 0.996
+...Word 'value' has a confidence of 0.995
+...Word 'per' has a confidence of 0.996
+...Word 'share' has a confidence of 0.995
+...Word 'MSFT' has a confidence of 0.99
+...Word 'NASDAQ' has a confidence of 0.993
+...Word '2.125%' has a confidence of 0.987
+...Word 'Notes' has a confidence of 0.994
+...Word 'due' has a confidence of 0.995
+...Word '2021' has a confidence of 0.991
+...Word 'MSFT' has a confidence of 0.99
+...Word 'NASDAQ' has a confidence of 0.995
+...Word '3.125%' has a confidence of 0.994
+...Word 'Notes' has a confidence of 0.993
+...Word 'due' has a confidence of 0.99
+...Word '2028' has a confidence of 0.982
+...Word 'MSFT' has a confidence of 0.99
+...Word 'NASDAQ' has a confidence of 0.995
+...Word '2.625%' has a confidence of 0.995
+...Word 'Notes' has a confidence of 0.994
+...Word 'due' has a confidence of 0.995
+...Word '2033' has a confidence of 0.993
+...Word 'MSFT' has a confidence of 0.987
+...Word 'NASDAQ' has a confidence of 0.995
+...Word 'Securities' has a confidence of 0.964
+...Word 'registered' has a confidence of 0.981
+...Word 'pursuant' has a confidence of 0.988
+...Word 'to' has a confidence of 0.995
+...Word 'Section' has a confidence of 0.991
+...Word '12(g)' has a confidence of 0.933
+...Word 'of' has a confidence of 0.995
+...Word 'the' has a confidence of 0.995
+...Word 'Act:' has a confidence of 0.983
+...Word 'NONE' has a confidence of 0.993
+...Word 'Indicate' has a confidence of 0.961
+...Word 'by' has a confidence of 0.995
+...Word 'check' has a confidence of 0.994
+...Word 'mark' has a confidence of 0.992
+...Word 'whether' has a confidence of 0.993
+...Word 'the' has a confidence of 0.995
+...Word 'registrant' has a confidence of 0.982
+...Word '(1)' has a confidence of 0.995
+...Word 'has' has a confidence of 0.995
+...Word 'filed' has a confidence of 0.994
+...Word 'all' has a confidence of 0.963
+...Word 'reports' has a confidence of 0.989
+...Word 'required' has a confidence of 0.992
+...Word 'to' has a confidence of 0.995
+...Word 'be' has a confidence of 0.995
+...Word 'filed' has a confidence of 0.99
+...Word 'by' has a confidence of 0.995
+...Word 'Section' has a confidence of 0.993
+...Word '13' has a confidence of 0.995
+...Word 'or' has a confidence of 0.995
+...Word '15(d)' has a confidence of 0.986
+...Word 'of' has a confidence of 0.983
+...Word 'the' has a confidence of 0.994
+...Word 'Securities' has a confidence of 0.986
+...Word 'Exchange' has a confidence of 0.994
+...Word 'Act' has a confidence of 0.995
+...Word 'of' has a confidence of 0.995
+...Word '1934' has a confidence of 0.991
+...Word 'during' has a confidence of 0.994
+...Word 'the' has a confidence of 0.995
+...Word 'preceding' has a confidence of 0.993
+...Word '12' has a confidence of 0.995
+...Word 'months' has a confidence of 0.995
+...Word '(or' has a confidence of 0.995
+...Word 'for' has a confidence of 0.996
+...Word 'such' has a confidence of 0.982
+...Word 'shorter' has a confidence of 0.99
+...Word 'period' has a confidence of 0.994
+...Word 'that' has a confidence of 0.993
+...Word 'the' has a confidence of 0.996
+...Word 'registrant' has a confidence of 0.992
+...Word 'was' has a confidence of 0.995
+...Word 'required' has a confidence of 0.992
+...Word 'to' has a confidence of 0.995
+...Word 'file' has a confidence of 0.992
+...Word 'such' has a confidence of 0.993
+...Word 'reports),' has a confidence of 0.976
+...Word 'and' has a confidence of 0.995
+...Word '(2)' has a confidence of 0.995
+...Word 'has' has a confidence of 0.995
+...Word 'been' has a confidence of 0.992
+...Word 'subject' has a confidence of 0.983
+...Word 'to' has a confidence of 0.979
+...Word 'such' has a confidence of 0.993
+...Word 'filing' has a confidence of 0.994
+...Word 'requirements' has a confidence of 0.983
+...Word 'for' has a confidence of 0.995
+...Word 'the' has a confidence of 0.995
+...Word 'past' has a confidence of 0.992
+...Word '90' has a confidence of 0.995
+...Word 'days.' has a confidence of 0.994
+...Word 'Yes' has a confidence of 0.995
+...Word 'No' has a confidence of 0.995
+...Word 'Indicate' has a confidence of 0.973
+...Word 'by' has a confidence of 0.995
+...Word 'check' has a confidence of 0.995
+...Word 'mark' has a confidence of 0.985
+...Word 'whether' has a confidence of 0.994
+...Word 'the' has a confidence of 0.996
+...Word 'registrant' has a confidence of 0.991
+...Word 'has' has a confidence of 0.995
+...Word 'submitted' has a confidence of 0.991
+...Word 'electronically' has a confidence of 0.979
+...Word 'every' has a confidence of 0.995
+...Word 'Interactive' has a confidence of 0.961
+...Word 'Data' has a confidence of 0.993
+...Word 'File' has a confidence of 0.99
+...Word 'required' has a confidence of 0.989
+...Word 'to' has a confidence of 0.992
+...Word 'be' has a confidence of 0.995
+...Word 'submitted' has a confidence of 0.988
+...Word 'pursuant' has a confidence of 0.993
+...Word 'to' has a confidence of 0.995
+...Word 'Rule' has a confidence of 0.992
+...Word '405' has a confidence of 0.995
+...Word 'of' has a confidence of 0.995
+...Word 'Regulation' has a confidence of 0.989
+...Word 'S-T' has a confidence of 0.995
+...Word '(§232.405' has a confidence of 0.876
+...Word 'of' has a confidence of 0.995
+...Word 'this' has a confidence of 0.993
+...Word 'chapter)' has a confidence of 0.993
+...Word 'during' has a confidence of 0.994
+...Word 'the' has a confidence of 0.995
+...Word 'preceding' has a confidence of 0.983
+...Word '12' has a confidence of 0.995
+...Word 'months' has a confidence of 0.994
+...Word '(or' has a confidence of 0.995
+...Word 'for' has a confidence of 0.996
+...Word 'such' has a confidence of 0.987
+...Word 'shorter' has a confidence of 0.961
+...Word 'period' has a confidence of 0.994
+...Word 'that' has a confidence of 0.992
+...Word 'the' has a confidence of 0.996
+...Word 'registrant' has a confidence of 0.992
+...Word 'was' has a confidence of 0.995
+...Word 'required' has a confidence of 0.994
+...Word 'to' has a confidence of 0.995
+...Word 'submit' has a confidence of 0.994
+...Word 'such' has a confidence of 0.993
+...Word 'files).' has a confidence of 0.982
+...Word 'Yes' has a confidence of 0.996
+...Word 'No' has a confidence of 0.995
+...Word 'Indicate' has a confidence of 0.973
+...Word 'by' has a confidence of 0.995
+...Word 'check' has a confidence of 0.995
+...Word 'mark' has a confidence of 0.992
+...Word 'whether' has a confidence of 0.995
+...Word 'the' has a confidence of 0.996
+...Word 'registrant' has a confidence of 0.992
+...Word 'is' has a confidence of 0.995
+...Word 'a' has a confidence of 0.995
+...Word 'large' has a confidence of 0.993
+...Word 'accelerated' has a confidence of 0.993
+...Word 'filer,' has a confidence of 0.982
+...Word 'an' has a confidence of 0.996
+...Word 'accelerated' has a confidence of 0.945
+...Word 'filer,' has a confidence of 0.951
+...Word 'a' has a confidence of 0.996
+...Word 'non-accelerated' has a confidence of 0.982
+...Word 'filer,' has a confidence of 0.993
+...Word 'a' has a confidence of 0.995
+...Word 'smaller' has a confidence of 0.994
+...Word 'reporting' has a confidence of 0.991
+...Word 'company,' has a confidence of 0.993
+...Word 'or' has a confidence of 0.996
+...Word 'an' has a confidence of 0.992
+...Word 'emerging' has a confidence of 0.993
+...Word 'growth' has a confidence of 0.995
+...Word 'company.' has a confidence of 0.993
+...Word 'See' has a confidence of 0.995
+...Word 'the' has a confidence of 0.996
+...Word 'definitions' has a confidence of 0.977
+...Word 'of' has a confidence of 0.995
+...Word '"large' has a confidence of 0.948
+...Word 'accelerated' has a confidence of 0.985
+...Word 'filer,"' has a confidence of 0.933
+...Word '"accelerated' has a confidence of 0.94
+...Word 'filer,"' has a confidence of 0.948
+...Word '"smaller' has a confidence of 0.959
+...Word 'reporting' has a confidence of 0.975
+...Word 'company,"' has a confidence of 0.93
+...Word 'and' has a confidence of 0.996
+...Word '"emerging' has a confidence of 0.948
+...Word 'growth' has a confidence of 0.995
+...Word 'company"' has a confidence of 0.948
+...Word 'in' has a confidence of 0.965
+...Word 'Rule' has a confidence of 0.992
+...Word '12b-2' has a confidence of 0.993
+...Word 'of' has a confidence of 0.995
+...Word 'the' has a confidence of 0.997
+...Word 'Exchange' has a confidence of 0.993
+...Word 'Act.' has a confidence of 0.984
+...Word 'Large' has a confidence of 0.994
+...Word 'accelerated' has a confidence of 0.993
+...Word 'filer' has a confidence of 0.994
+...Word 'Accelerated' has a confidence of 0.992
+...Word 'filer' has a confidence of 0.995
+...Word 'Non-accelerated' has a confidence of 0.986
+...Word 'filer' has a confidence of 0.995
+...Word 'Smaller' has a confidence of 0.995
+...Word 'reporting' has a confidence of 0.994
+...Word 'company' has a confidence of 0.995
+...Word 'Emerging' has a confidence of 0.995
+...Word 'growth' has a confidence of 0.994
+...Word 'company' has a confidence of 0.995
+...Word 'If' has a confidence of 0.963
+...Word 'an' has a confidence of 0.996
+...Word 'emerging' has a confidence of 0.993
+...Word 'growth' has a confidence of 0.995
+...Word 'company,' has a confidence of 0.993
+...Word 'indicate' has a confidence of 0.993
+...Word 'by' has a confidence of 0.995
+...Word 'check' has a confidence of 0.995
+...Word 'mark' has a confidence of 0.992
+...Word 'if' has a confidence of 0.995
+...Word 'the' has a confidence of 0.997
+...Word 'registrant' has a confidence of 0.993
+...Word 'has' has a confidence of 0.996
+...Word 'elected' has a confidence of 0.994
+...Word 'not' has a confidence of 0.995
+...Word 'to' has a confidence of 0.996
+...Word 'use' has a confidence of 0.995
+...Word 'the' has a confidence of 0.995
+...Word 'extended' has a confidence of 0.983
+...Word 'transition' has a confidence of 0.992
+...Word 'period' has a confidence of 0.994
+...Word 'for' has a confidence of 0.995
+...Word 'complying' has a confidence of 0.993
+...Word 'with' has a confidence of 0.993
+...Word 'any' has a confidence of 0.995
+...Word 'new' has a confidence of 0.996
+...Word 'or' has a confidence of 0.995
+...Word 'revised' has a confidence of 0.994
+...Word 'financial' has a confidence of 0.992
+...Word 'accounting' has a confidence of 0.993
+...Word 'standards' has a confidence of 0.981
+...Word 'provided' has a confidence of 0.993
+...Word 'pursuant' has a confidence of 0.992
+...Word 'to' has a confidence of 0.992
+...Word 'Section' has a confidence of 0.978
+...Word '13(a)' has a confidence of 0.994
+...Word 'of' has a confidence of 0.995
+...Word 'the' has a confidence of 0.997
+...Word 'Exchange' has a confidence of 0.993
+...Word 'Act.' has a confidence of 0.983
+...Word 'Indicate' has a confidence of 0.983
+...Word 'by' has a confidence of 0.995
+...Word 'check' has a confidence of 0.995
+...Word 'mark' has a confidence of 0.992
+...Word 'whether' has a confidence of 0.994
+...Word 'the' has a confidence of 0.995
+...Word 'registrant' has a confidence of 0.961
+...Word 'is' has a confidence of 0.995
+...Word 'a' has a confidence of 0.995
+...Word 'shell' has a confidence of 0.993
+...Word 'company' has a confidence of 0.994
+...Word '(as' has a confidence of 0.995
+...Word 'defined' has a confidence of 0.929
+...Word 'in' has a confidence of 0.995
+...Word 'Rule' has a confidence of 0.992
+...Word '12b-2' has a confidence of 0.993
+...Word 'of' has a confidence of 0.995
+...Word 'the' has a confidence of 0.996
+...Word 'Exchange' has a confidence of 0.993
+...Word 'Act).' has a confidence of 0.994
+...Word 'Yes' has a confidence of 0.967
+...Word 'No' has a confidence of 0.995
+...Word 'Indicate' has a confidence of 0.986
+...Word 'the' has a confidence of 0.983
+...Word 'number' has a confidence of 0.994
+...Word 'of' has a confidence of 0.995
+...Word 'shares' has a confidence of 0.994
+...Word 'outstanding' has a confidence of 0.99
+...Word 'of' has a confidence of 0.995
+...Word 'each' has a confidence of 0.992
+...Word 'of' has a confidence of 0.995
+...Word 'the' has a confidence of 0.996
+...Word 'issuer's' has a confidence of 0.985
+...Word 'classes' has a confidence of 0.993
+...Word 'of' has a confidence of 0.995
+...Word 'common' has a confidence of 0.985
+...Word 'stock,' has a confidence of 0.991
+...Word 'as' has a confidence of 0.995
+...Word 'of' has a confidence of 0.995
+...Word 'the' has a confidence of 0.993
+...Word 'latest' has a confidence of 0.993
+...Word 'practicable' has a confidence of 0.988
+...Word 'date.' has a confidence of 0.993
+...Word 'Class' has a confidence of 0.994
+...Word 'Outstanding' has a confidence of 0.993
+...Word 'as' has a confidence of 0.995
+...Word 'of' has a confidence of 0.997
+...Word 'April' has a confidence of 0.995
+...Word '24,' has a confidence of 0.995
+...Word '2020' has a confidence of 0.993
+...Word 'Common' has a confidence of 0.994
+...Word 'Stock,' has a confidence of 0.991
+...Word '$0.00000625' has a confidence of 0.992
+...Word 'par' has a confidence of 0.995
+...Word 'value' has a confidence of 0.995
+...Word 'per' has a confidence of 0.995
+...Word 'share' has a confidence of 0.995
+...Word '7,583,440,247' has a confidence of 0.989
+...Word 'shares' has a confidence of 0.995
+...Selection mark is 'selected' within bounding box '[0.6572, 1.7653], [0.7809, 1.7653], [0.7809, 1.8873], [0.6572, 1.8873]' and has a confidence of 0.98
+...Selection mark is 'unselected' within bounding box '[0.6611, 2.6871], [0.7835, 2.6871], [0.7835, 2.8103], [0.6611, 2.8103]' and has a confidence of 0.98
+...Selection mark is 'selected' within bounding box '[4.2406, 6.5435], [4.3391, 6.5435], [4.3391, 6.6413], [4.2406, 6.6413]' and has a confidence of 0.99
+...Selection mark is 'unselected' within bounding box '[4.7086, 6.5447], [4.8033, 6.5447], [4.8033, 6.6375], [4.7086, 6.6375]' and has a confidence of 0.995
+...Selection mark is 'selected' within bounding box '[1.9626, 7.0222], [2.0623, 7.0222], [2.0623, 7.1187], [1.9626, 7.1187]' and has a confidence of 0.99
+...Selection mark is 'unselected' within bounding box '[2.4205, 7.0234], [2.5139, 7.0234], [2.5139, 7.1174], [2.4205, 7.1174]' and has a confidence of 0.987
+...Selection mark is 'selected' within bounding box '[1.8588, 7.7045], [1.9573, 7.7045], [1.9573, 7.8011], [1.8588, 7.8011]' and has a confidence of 0.983
+...Selection mark is 'unselected' within bounding box '[6.2252, 7.7045], [6.3199, 7.7045], [6.3199, 7.7998], [6.2252, 7.7998]' and has a confidence of 0.982
+...Selection mark is 'unselected' within bounding box '[1.7804, 7.8803], [1.8764, 7.8803], [1.8764, 7.9755], [1.7804, 7.9755]' and has a confidence of 0.99
+...Selection mark is 'unselected' within bounding box '[6.7894, 7.8815], [6.884, 7.8815], [6.884, 7.9768], [6.7894, 7.9768]' and has a confidence of 0.995
+...Selection mark is 'unselected' within bounding box '[6.7843, 8.0534], [6.879, 8.0534], [6.879, 8.1474], [6.7843, 8.1474]' and has a confidence of 0.987
+...Selection mark is 'unselected' within bounding box '[6.5389, 8.4099], [6.6298, 8.4099], [6.6298, 8.5013], [6.5389, 8.5013]' and has a confidence of 0.99
+...Selection mark is 'unselected' within bounding box '[6.7881, 8.6098], [6.884, 8.6098], [6.884, 8.7051], [6.7881, 8.7051]' and has a confidence of 0.997
+...Selection mark is 'selected' within bounding box '[7.2397, 8.6136], [7.3369, 8.6136], [7.3369, 8.7089], [7.2397, 8.7089]' and has a confidence of 0.99
+Table # 0 has 5 rows and 3 columns
+Table # 0 location on page: 1 is [0.5809, 4.897], [7.7181, 4.8965], [7.7203, 5.8067], [0.5824, 5.8075]
+...Cell[0][0] has content 'Title of each class'
+...content on page 1 is within bounding box '[0.5561, 4.8963], [3.8728, 4.8963], [3.8728, 5.1163], [0.5561, 5.1163]'
+
+...Cell[0][1] has content 'Trading Symbol'
+...content on page 1 is within bounding box '[3.8728, 4.8963], [5.381, 4.8963], [5.3883, 5.1163], [3.8728, 5.1163]'
+
+...Cell[0][2] has content 'Name of exchange on which registered'
+...content on page 1 is within bounding box '[5.381, 4.8963], [7.7019, 4.8963], [7.7019, 5.1163], [5.3883, 5.1163]'
+
+...Cell[1][0] has content 'Common stock, $0.00000625 par value per share'
+...content on page 1 is within bounding box '[0.5561, 5.1163], [3.8728, 5.1163], [3.8728, 5.2997], [0.5561, 5.2997]'
+
+...Cell[1][1] has content 'MSFT'
+...content on page 1 is within bounding box '[3.8728, 5.1163], [5.3883, 5.1163], [5.3883, 5.2997], [3.8728, 5.2997]'
+
+...Cell[1][2] has content 'NASDAQ'
+...content on page 1 is within bounding box '[5.3883, 5.1163], [7.7019, 5.1163], [7.7019, 5.2997], [5.3883, 5.2997]'
+
+...Cell[2][0] has content '2.125% Notes due 2021'
+...content on page 1 is within bounding box '[0.5561, 5.2997], [3.8728, 5.2997], [3.8801, 5.4537], [0.5561, 5.4537]'
+
+...Cell[2][1] has content 'MSFT'
+...content on page 1 is within bounding box '[3.8728, 5.2997], [5.3883, 5.2997], [5.3883, 5.4537], [3.8801, 5.4537]'
+
+...Cell[2][2] has content 'NASDAQ'
+...content on page 1 is within bounding box '[5.3883, 5.2997], [7.7019, 5.2997], [7.7019, 5.4537], [5.3883, 5.4537]'
+
+...Cell[3][0] has content '3.125% Notes due 2028'
+...content on page 1 is within bounding box '[0.5561, 5.4537], [3.8801, 5.4537], [3.8801, 5.615], [0.5561, 5.615]'
+
+...Cell[3][1] has content 'MSFT'
+...content on page 1 is within bounding box '[3.8801, 5.4537], [5.3883, 5.4537], [5.3883, 5.615], [3.8801, 5.615]'
+
+...Cell[3][2] has content 'NASDAQ'
+...content on page 1 is within bounding box '[5.3883, 5.4537], [7.7019, 5.4537], [7.7019, 5.615], [5.3883, 5.615]'
+
+...Cell[4][0] has content '2.625% Notes due 2033'
+...content on page 1 is within bounding box '[0.5561, 5.615], [3.8801, 5.615], [3.8801, 5.7984], [0.5561, 5.8057]'
+
+...Cell[4][1] has content 'MSFT'
+...content on page 1 is within bounding box '[3.8801, 5.615], [5.3883, 5.615], [5.3883, 5.7984], [3.8801, 5.7984]'
+
+...Cell[4][2] has content 'NASDAQ'
+...content on page 1 is within bounding box '[5.3883, 5.615], [7.7019, 5.615], [7.7019, 5.7984], [5.3883, 5.7984]'
+
+Table # 1 has 2 rows and 2 columns
+Table # 1 location on page: 1 is [0.5989, 9.0458], [7.8807, 9.0475], [7.8833, 9.5126], [0.6003, 9.511]
+...Cell[0][0] has content 'Class'
+...content on page 1 is within bounding box '[0.5748, 9.0407], [4.7136, 9.0407], [4.721, 9.2489], [0.5748, 9.2415]'
+
+...Cell[0][1] has content 'Outstanding as of April 24, 2020'
+...content on page 1 is within bounding box '[4.7136, 9.0407], [7.8288, 9.0407], [7.8363, 9.2489], [4.721, 9.2489]'
+
+...Cell[1][0] has content 'Common Stock, $0.00000625 par value per share'
+...content on page 1 is within bounding box '[0.5748, 9.2415], [4.721, 9.2489], [4.7285, 9.4869], [0.5748, 9.4795]'
+
+...Cell[1][1] has content '7,583,440,247 shares'
+...content on page 1 is within bounding box '[4.721, 9.2489], [7.8363, 9.2489], [7.8438, 9.4869], [4.7285, 9.4869]'
+
+----------------------------------------
