@@ -3,6 +3,7 @@ import os
 from azure.ai.formrecognizer import DocumentAnalysisClient
 from azure.core.credentials import AzureKeyCredential
 import dotenv
+import json
 
 # set `<your-endpoint>` and `<your-key>` variables with the values from the Azure portal
 endpoint = "<your-endpoint>"
@@ -34,6 +35,11 @@ def main():
             "prebuilt-document", docUrl)
     result = poller.result()
 
+    ## convert to json and write to file with ident=4
+    json_string = json.dumps(result.to_dict(), indent=4)
+    with open("result.json", "w") as outfile:
+        outfile.write(json_string)
+    
     for style in result.styles:
         if style.is_handwritten:
             print("Document contains handwritten content: ")
